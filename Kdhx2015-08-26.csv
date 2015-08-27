@@ -1,51 +1,255 @@
-,test comment (and blank track)
+,song,album,artist
 
-,test fuzzy artist title search
-stray cats stray cat strut
+,the lion's den
+"Yes","Changes","from 90125"
 
-,test fuzzy title artist search
-just what i needed the cars
+,emotional rescue
+"Failure","Snow Angel","from The Heart Is a Monster"
 
-,test fuzzy search for song that should return a low match
-instant karma! we all shine on john lennon
+"Spoon","Sister Jack","from Gimme Fiction"
 
-,"test detailed library search (this song isn't in aa, but it's in my library)"
-classical gas,vanessa-mae
+"The Sonics","You Can't Judge a Book by the Cover","from This Is the Sonics"
 
-,test detailed all access search (the top fuzzy result is incorrect)
-am/fm,!!!,strange weather
+"CaveofswordS","Aviation Administration","from Sigils"
 
-,this should return a low result
-back in black,ac/dc,back in black
+"Beck","Dreams (Clean Version)","from Dreams"
 
-,test detailed search which should return song from library if you have it
-orion,metallica,master of puppets
+"Wilco","You Satellite","from Star Wars"
 
-,test album distinction and slight artist mismatch
-Moments in Love,The Art of Noise,And What Have You Done with My Body God?
-Moments in Love,The Art of Noise,Daft
+"Big Star","The Ballad of El Goodoo","from #1 Record"
 
-,test slight title mismatch
-Making Love Out of Nothing at All,Air Supply,Ultimate Air Supply
+"XTC","Rocket from a Bottle","from Black Sea"
 
-,"test low score, mismatched title, and mistmatched artist, and comma in entry"
-Blame It on the Rain,Milli Vanilli,Greatest Hits
+"The New Pornographers","Jackie, Dressed In Cobras","from Twin Cinema"
 
-,"test low score, mismatched title, mismatched artist, mismatched song, and entry comma"
-1o1,Chris Duarte Groop,Ronp
+"George Harrison","All things must pass","from All Things Must Pass"
 
-,test useless info in brackets and duplicate checks
-1o1 (Live!) [In Concert] {World Tour},Chris Duarte Groop,Ronp
+,mystery train
 
-,test title only search
-Be Thou My Vision,Dallan Forgaill,
+"R.E.M.","Drive","from Automatic for the People"
 
-,test initial unmatched fuzzy with info in brackets
-stray cats (asdfDoNotMatchMe1234) stray cat strut
+"Joe Strummer and The Mescaleros","Forbidden City","from Rock Art And The X-Ray Style"
 
-,
-,expected results
-,13/15 tracks imported
-,2 duplicate tracks
-,
+"Sleepy Kitty","Bleecker Street Parakeet Beak","from Captured Rooftop"
 
+,music at work
+
+"Silversun Pickups","Nighlight","from Better Nature"
+
+"The Cure","Primary","from Concert - The Cure Live"
+
+"Dada","Who You Are","from Puzzle"
+
+"Oingo Boingo","No One Lives Forever","from Best O' Boingo"
+
+"Frank Zappa","Dirty Love","from Strictly Commercial the Best Of Frank Zappa"
+
+"Brothers Lazaroff","Read It In the News","from Day and Night"
+
+,gold soundz
+
+"Built to Spill","Car","from There's Nothing Wrong With Love"
+
+"Pavement","Date W/ IKEA","from Brighten the Corners"
+
+"The Apples In Stereo","Tidal Wave (Radio Mix)","from Sound Effects 92-00"
+
+"Sleepy Kitty","Speaking Politely","from Infinity City"
+
+"Mac McCaughan","Box Batteries","from Non-Believers"
+
+"Heartless Bastards","Hi-line","from Restless Ones"
+
+"Alberta Cross","Ghost of Sante Fe","from Alberta Cross"
+
+"The Wooden Sky","Saturday Night","from Let's Be Ready"
+
+,wax lyrical
+
+"Josh Ritter","Getting Ready To Get Down","from Sermon on the Rocks"
+
+"Elvis Costello","(The Angels Wanna Wear My) Red Shoes","from My Aim Is True"
+
+"FFS","Call girl","from FFS"
+
+"Ibeyi","ghosts","from Ibeyi"
+
+"Briana Marela","Take Care of me","from All Around Us"
+
+"Heartless Bastards","Gates of Dawn","from Restless Ones"
+
+"La Luz","Don't Wanna Be Anywhere","from Weirdo Shrine"
+
+"Toro Y Moi","New Beat","from Underneath the Pine"
+
+"Dale Earnhardt Jr Jr","simple girl","from It's a Corporate World"
+
+"Waxahatchee","Under a Rock","from Ivy Tripp"
+
+"Alabama Shakes","I Ain't the Same","from Boys & Girls"
+
+,feel like going home
+
+"Camera Obscura","Do It Again","from Desire Lines"
+
+"Heartless Bastards","The Fool","from Restless Ones"
+
+"Dawes","All Your Favorite Bands"
+
+"Ry Cooder","The Way We Make A Broken Heart","from Borderline"
+
+"Alabama Shakes","This Feeling","from Sound & Color"
+
+"Jon Hardy & The Public","I Work for Everyone","from Working In Love"
+
+"Courtney Barnett","Depreston","from Sometimes I Sit and Think, and Sometimes I Just Sit"
+
+"Brothers Lazaroff","Day and Night"
+
+"Falls","Let in the Light (With ID)","from Omaha"
+
+"Neil Young","From Hank To Hendrix","from Harvest Moon"
+
+,juxtaposition
+
+"Blur","Country House","from The Great Escape"
+
+"Courtney Barnett","Nobody Really Cares If You Don't Go to the Party","from Sometimes I Sit and Think, and Sometimes I Just Sit"
+
+"Ben Folds","Phone In A Pool","from So There"
+
+"Clinic","The Witch","from Do It!"
+
+"The Train Set","Hold On","from Never California"
+
+"Beach House","Spark","from Depression Cherry"
+
+"The Maccabees","Marks to Prove It"
+
+"Jamie xx","Loud Places (feat. Romy)","from In Colour"
+
+"Tame Impala","Disciples","from Currents"
+
+,memphis to manchester
+
+"The In Crowd","Cat Dance","from Modernists","A Decade of Rhythm & Soul Dedication"
+
+"Louis Jordan and His Tympany Five","Look Out","from Louis Jordan And His Tympany Five Disc D","1947 - 1949"
+
+"Bessie Banks","Go Now","from Girl Group Sounds Lost & Found","One Kiss Can Lead To Another"
+
+"Timmy Thomas","It's My Life","from The Goldwax Story, Vol. 2"
+
+"The School","All I Want From You Is Everything","from All I Want From You Is Everything - EP"
+
+"The Educated Guess","Get You Girl","from The Educated Guess"
+
+"Billy Bragg","Waiting for the Great Leap Forwards","from Workers Playtime"
+
+"Dusty Springfield","I Don't Want to Hear It Anymore","from Dusty In Memphis"
+
+"The Byrds","Stranger in a Strange Land (Instrumental)","from Turn! Turn! Turn!"
+
+"Mogwai","Emergency Trap","from Mr. Beast"
+
+"The Mountain Goats","The Legend of Chavo Guerrero","from Beat The Champ"
+
+"Mount Moriah","I Built a Town","from Miracle Temple"
+
+"Harry Nilsson","You Can't Do That","from Pandemonium Shadow Show"
+
+,pop the beat bubble burst
+
+"Elvis Costello","Radio, Radio [Extended Play]","from This Year's Model [Bonus Tracks]"
+
+"Derek & The Dominos","Roll It Over (Remastered - 40th Anniversary Version - 2010)","from Layla And Other Assorted Love Songs (2 Part Deluxe Edition)"
+
+"The Rolling Stones","Complicated","from Between the Buttons"
+
+"The Creation","Bony Maronie","from Best of The Creation"
+
+"George Harrison","Cheer Down","from Best Of Dark Horse 1976-1989"
+
+"The See See","And I Wonder","from Days, Nights & Late Morning Lights"
+
+"Teenage Fanclub","Slow Fade","from Man-Made"
+
+"David Bowie","Black Country Rock","from The Man Who Sold The World"
+
+,sound salvation
+
+"Sam Cooke And The Soul Stirrers","I'm So Glad (Trouble Don't Last Always)","from The Complete Specialty Recordings of Sam Cooke"
+
+"Sam Cooke","Get Yourself Another Fool","from Night Beat"
+
+"The Continental Drifters","The Rain Song (Early Version)","from Drifted","In the Beginning and Beyond"
+
+"Buffalo Springfield","Hung Upside Down","from Buffalo Springfield Again"
+
+"Louis Armstrong","West End Blues","from Hot Fives and Sevens"
+
+"Cab Calloway","The Scat Song","from Cab Calloway and Company"
+
+"Etta James","You Can Leave Your Hat On","from The Essential Etta James"
+
+"Aretha Franklin","That's the Way I Feel About Cha","from Rare & Unreleased Recordings from the Golden Reign of the Queen of Soul"
+
+"Brian Wilson","Tell Me Why","from No Pier Pressure"
+
+"FFS","Things I Won't Get","from FFS"
+
+,afternoon delight
+
+"Devo","Time Out for Fun","from Oh No! It's Devo"
+
+"The Butthole Surfers","Eindhoven Chicken Masque","from Humpty Dumpty LSD"
+
+"The B-52s","Summer Of Love","from Nude On The Moon"
+
+"Tame Impala","Past life","from Currents"
+
+"Pink Floyd","Childhood's End","from Obscured By Clouds"
+
+"Santana","Taboo","from III"
+
+,coin-operated radio
+
+"Girlpool","Before the World Was Big"
+
+"Thee Oh Sees","Web","from Mutilator Defeated At Last"
+
+"Panda Bear","Crosswords","from Panda Bear Meets the Grim Reaper"
+
+"Heartless Bastards","Gates of Dawn","from Restless Ones"
+
+"Mikal Cronin","i) Alone","from MCIII"
+
+"Beck","Dreams (Clean Version)","from Dreams [SINGLE]"
+
+"Beth Bombara","Greet the Day","from Beth Bombara"
+
+"My Morning Jacket","Big Decisions","from The Waterfall"
+
+"Beach House","sparks","from Depression Cherry"
+
+"Unknown Mortal Orchestra","Multi-Love"
+
+"Jason Isbell","Something More Than Free"
+
+"Alabama Shakes","Don't Wanna Fight","from Sound & Color"
+
+"Jamie xx","Loud Places (feat. Romy)","from In Colour"
+
+"JD McPherson","head over heels","from Let the Good Times Roll"
+
+"The Helio Sequence","Stoic Resemblance","from The Helio Sequence"
+
+"Björk","Stonemilker","from Vulnicura"
+
+"Shamir","Call It Off","from Ratchet"
+
+"D'Angelo & The Vanguard","Really Love","from Black Messiah"
+
+"Algiers","Black Eunuch","from Algiers"
+
+"Blur","There Are Too Many of Us","from The Magic Whip"
